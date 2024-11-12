@@ -1,9 +1,9 @@
 
 GitHub repo size GitHub watchers GitHub language count GitHub code size in bytes LinkedIn Instagram Behance
 
-Your Name & Surname
-Student Number
-Subject Name & Year
+Phillip Van der hoven
+221110
+DV200 - 2024
 
 Logo
 
