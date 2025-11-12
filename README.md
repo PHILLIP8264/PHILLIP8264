@@ -4,15 +4,26 @@
 
 <br>
 
-<h1 align="center">
-  Hello, I'm <strong>Phillipus Van Der Hoven</strong>
-</h1>
+### 👋 About Me
+
+<p align="left">
+Hi, I'm <strong>Phillipus Van Der Hoven</strong>! I’m passionate about turning ideas into elegant web and mobile applications. I love exploring new technologies, building creative solutions, and contributing to projects that make a difference.  
+
+When I’m not coding, you’ll find me experimenting with AI, photography, or exploring the outdoors.  
+</p>
 
 <br>
+<br>
 
-<h2 align="center">
-  Turning ideas into elegant apps & seamless web experiences
-</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/phillip-van-der-hoven-696818338" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/689887524625186857" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</p>
 
 <br>
 
@@ -97,34 +108,77 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
-<hr style="border: 3px solid #6a0dad;"/>
+---
 
-### 🚀 Pinned Projects
+<br>
+<br>
 
-<p align="left">
+### 🚀 Featured Projects
+
+<p align="center">
+
+<table>
+<tr>
+
+<td align="center" width="250px" style="background-color:#6a0dad; padding:20px; border-radius:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color:white; margin:10px 0;">The Ledger</h3>
+  <p style="color:white; font-size:14px; margin:10px 0;">AI-powered app that scans receipts, categorizes items, and adds them to user-created budgets for effortless expense tracking.</p>
+  <!-- Tech Badges -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <br><br>
+  <!-- Button -->
   <a href="https://github.com/PHILLIP8264/slipscan">
-    <img src="https://img.shields.io/badge/SlipScan-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="SlipScan"/>
+    <img src="https://img.shields.io/badge/View%20Repo-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="The Ledger Repo"/>
   </a>
-  &nbsp;
+</td>
+
+<td width="20px"></td>
+
+<td align="center" width="250px" style="background-color:#4B0082; padding:20px; border-radius:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color:white; margin:10px 0;">FrameIt</h3>
+  <p style="color:white; font-size:14px; margin:10px 0;">Gamified photo app where users go to specific locations and capture a photo of a target item or scene.</p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37" />
+  <br><br>
   <a href="https://github.com/PHILLIP8264/FrameIt">
-    <img src="https://img.shields.io/badge/FrameIt-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="FrameIt"/>
+    <img src="https://img.shields.io/badge/View%20Repo-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="FrameIt Repo"/>
   </a>
-  &nbsp;
+</td>
+
+<td width="20px"></td>
+
+<td align="center" width="250px" style="background-color:#8A2BE2; padding:20px; border-radius:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color:white; margin:10px 0;">MoxBackend</h3>
+  <p style="color:white; font-size:14px; margin:10px 0;">Backend API for Mox, a modern project & task management app. Supports CRUD, Kanban workflows, Firebase file uploads, and role-based authentication.</p>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" />
+  <br><br>
   <a href="https://github.com/Rynoo1/MoxBackend">
-    <img src="https://img.shields.io/badge/MoxBackend-00bfff?style=for-the-badge&logo=github&logoColor=white" alt="MoxBackend"/>
+    <img src="https://img.shields.io/badge/View%20Repo-00bfff?style=for-the-badge&logo=github&logoColor=white" alt="MoxBackend Repo"/>
   </a>
-  &nbsp;
+</td>
+
+<td width="20px"></td>
+
+<td align="center" width="250px" style="background-color:#483D8B; padding:20px; border-radius:20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h3 style="color:white; margin:10px 0;">FoodShare</h3>
+  <p style="color:white; font-size:14px; margin:10px 0;">Connects donors with food banks and individuals in need, helping reduce food waste and fight food insecurity.</p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <br><br>
   <a href="https://github.com/PHILLIP8264/foodshare">
-    <img src="https://img.shields.io/badge/FoodShare-32cd32?style=for-the-badge&logo=github&logoColor=white" alt="FoodShare"/>
+    <img src="https://img.shields.io/badge/View%20Repo-32cd32?style=for-the-badge&logo=github&logoColor=white" alt="FoodShare Repo"/>
   </a>
+</td>
+
+</tr>
+</table>
 </p>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=appveyor&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 <br>
 <br>
