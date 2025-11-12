@@ -10,7 +10,7 @@
 
 <br>
 
-<h2>
+<h2 align="center">
   Turning ideas into elegant apps & seamless web experiences
 </h2>
 
